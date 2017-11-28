@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">RegistrationForm</string>
+    <string name="text_male">Male</string>
+    <string name="text_female">Female</string>
+    <string name="text_continue">Continue</string>
+    <string name="hint_first_name">first name</string>
+    <string name="hint_last_name">last name</string>
+    <string name="text_agree">Agree</string>
+</resources>
